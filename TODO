@@ -1,0 +1,40 @@
+Intro:
+    ☐ Learn using Matchers
+    ☐ Learn testing Asynchronous Code
+    ☐ Learn setup and Teardown
+    ☐ Learn Mock Functions
+    ☐ Learn Jest Platform
+    ☐ Learn Jest Community
+    ☐ Learn More Resources
+
+Guides:
+    ☐ Learn Snapshot Testing
+    ☐ Learn An Async Example
+    ☐ Learn Timer Mocks
+    ☐ Learn Manual Mocks
+    ☐ Learn ES6 Class Mocks
+    ☐ Learn Bypassing module mocks
+    ☐ Learn ECMAScript Modules
+    ☐ Learn Using with webpack
+    ☐ Learn Using with puppeteer
+    ☐ Learn Using with MongoDB
+    ☐ Learn Using with DynamoDB
+    ☐ Learn DOM Manipulation
+    ☐ Learn Watch Plugins
+    ☐ Learn Migrating to Jest
+    ☐ Learn Troubleshooting
+    ☐ Learn Architecture
+
+Framework Guides:
+    ☐ Learn Testing React Apps
+    ☐ Learn Testing React Native Apps
+    ☐ Learn Testing Web Frameworks
+
+API Refernce:
+    ☐ Globals
+    ☐ Expect
+    ☐ Mock Functions
+    ☐ The Jest Object
+    ☐ Configuring Jest
+    ☐ Jest CLI Options
+    ☐ Environment Variables
